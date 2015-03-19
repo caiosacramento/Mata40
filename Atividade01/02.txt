@@ -1,0 +1,1 @@
+lê um numero do usuario e depois printa na tela 
